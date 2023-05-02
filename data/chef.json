@@ -1,0 +1,279 @@
+[
+    {
+      "name": "Cheu ba",
+      "id": "Chef-1",
+      "experience": 5,
+      "numRecipes": 6,
+      "likes": 100,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBzup-uF1gvg3kBFOqyvEFLBfcqiR_Vk6wTWtDfK59WFyKdGTgz7OG8V7ZfnyNpojfvU&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cheu ca",
+      "id": "Chef-2",
+      "experience": 11,
+      "numRecipes": 6,
+      "likes": 200,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPA9AFp0yIJLW1Cs9a4GdEoD_Gf6kdqDkMA&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cheu da",
+      "id": "Chef-3",
+      "experience": 3,
+      "numRecipes": 6,
+      "likes": 300,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-amkBuFSJqyGk4o_gIQHqoVR5_6Jwm8sdw&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cheu ea",
+      "id": "Chef-4",
+      "experience": 4,
+      "numRecipes": 6,
+      "likes": 400,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKmhIzQsaZVqqVnOy0TOcFs58B0y7Iwy3-Urqs0GQgv5MooBWuSvuO-i0s_nQB19r4cE&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cheu fa",
+      "id": "Chef-5",
+      "experience": 5,
+      "numRecipes": 6,
+      "likes": 500,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxu1zKYQT6cMKs9FJsiEgbolTCyCWdBz1QTA&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Cheu ba",
+      "id": "Chef-6",
+      "experience": 6,
+      "numRecipes": 6,
+      "likes": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9JyYAYRbI-CybdQlYSs0IZU6bXNVOnrFgeg&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg"
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg"
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg"
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg"
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg"
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg"
+        }
+      ]
+    }
+   
+]
