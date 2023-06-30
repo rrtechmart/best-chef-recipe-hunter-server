@@ -1,0 +1,358 @@
+[
+    {
+      "name": "Cheu ba chang",
+      "id": 1,
+      "experience": 5,
+      "numRecipes": 6,
+      "likes": 100,
+      "bio_data": "Cheu ba chang is an accomplished chef with a passion for culinary arts. With over a decade of experience, he has honed his skills in various international cuisines. Known for his creativity and attention to detail, John has delighted countless patrons with his exquisite dishes. From his humble beginnings in a small kitchen to working in renowned restaurants, he has gained a reputation for his innovative flavors and visually stunning presentations. John's dedication to his craft and commitment to delivering exceptional dining experiences make him a sought-after chef in the culinary world.",
+
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBzup-uF1gvg3kBFOqyvEFLBfcqiR_Vk6wTWtDfK59WFyKdGTgz7OG8V7ZfnyNpojfvU&usqp=CAU",
+      "recipes": [
+        {
+          "rec_name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.deliveryhero.io%2Fimage%2Ffd-bd%2FLH%2Fmpvt-hero.jpg&tbnid=VlC9Hn0Sjt8ZgM&vet=12ahUKEwiJ3Y615NX-AhXpArcAHeHZBhAQMyg_egUIARCBAQ..i&imgrefurl=https%3A%2F%2Fwww.foodpanda.com.bd%2Frestaurant%2Fmpvt%2Fmonolovas-fast-food-and-mini-chinese&docid=o-ALPf2PepAuwM&w=1440&h=1053&q=chinese%20fast%20food%20images&hl=en-GB&ved=2ahUKEwiJ3Y615NX-AhXpArcAHeHZBhAQMyg_egUIARCBAQ",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://media.istockphoto.com/id/483120255/photo/asian-oranage-chicken-with-green-onions.jpg?b=1&s=170667a&w=0&k=20&c=_loRhZ0tGUM1t2y-kckpfFcPfZvhxGs5Atp6sCslvPI=",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://media.istockphoto.com/id/1430638273/photo/chop-suey-is-a-quick-chinese-american-stir-fry-with-chicken-and-mixed-vegetables-in-a-thick.jpg?b=1&s=170667a&w=0&k=20&c=CHNZInAUhQ3W9Zzxw_yAIpoyiatSECrKh8Fc7ehsk-E=",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground beef", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://media.istockphoto.com/id/505531936/photo/tender-juicy-beef-slices-and-mixed-vegetables-ready-to-eat.jpg?s=612x612&w=0&k=20&c=-yB0kXU8JbZYTWMdZbhu2DJ69RJUdjmNI1KSBqKEWmU=",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://media.istockphoto.com/id/503977754/photo/fried-noodle-with-shrimp-and-vegetables-in-sauce.jpg?s=612x612&w=0&k=20&c=n_jTkWjzjM5rnuAze3yQRonhecW4UvvJnFbCrYTOkdI=",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    },
+    {
+      "name": "Cheu ca ching",
+      "id": 2,
+      "experience": 21,
+      "numRecipes": 6,
+      "likes": 200,
+      "bio_data": "Cheu ca ching is an experienced and creative chef with a passion for culinary excellence. With expertise in diverse cuisines, he has delighted patrons with his innovative flavors and stunning presentations. His dedication to delivering exceptional dining experiences has earned him a reputation as a sought-after chef in the industry.",
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPA9AFp0yIJLW1Cs9a4GdEoD_Gf6kdqDkMA&usqp=CAU",
+      "recipes": [
+        {
+          "rec_name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "rec_name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    },
+    {
+      "name": "Cheu da",
+      "id": 3,
+      "experience": 3,
+      "numRecipes": 6,
+      "likes": 300,
+      "bio_data": "John is an experienced, creative chef with expertise in diverse cuisines. Known for innovative flavors and stunning presentations, he is a sought-after culinary professional dedicated to delivering exceptional dining experiences.",
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBzup-uF1gvg3kBFOqyvEFLBfcqiR_Vk6wTWtDfK59WFyKdGTgz7OG8V7ZfnyNpojfvU&usqp=CAU",
+      "recipes": [
+        {
+          "rec_name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    },
+    {
+      "name": "Cheu ea eingh",
+      "id": 4,
+      "experience": 4,
+      "numRecipes": 6,
+      "likes": 400,
+      "bio_data": "Cheu ea eingh is an experienced and innovative chef with expertise in diverse cuisines. Known for his impeccable culinary skills and attention to detail, he has delighted countless patrons with his flavorful creations. With a passion for delivering exceptional dining experiences, he is highly sought-after in the culinary industry.",
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKmhIzQsaZVqqVnOy0TOcFs58B0y7Iwy3-Urqs0GQgv5MooBWuSvuO-i0s_nQB19r4cE&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    },
+    {
+      "name": "Cheu fa fingha",
+      "id": 5,
+      "experience": 5,
+      "numRecipes": 6,
+      "likes": 500,
+      "bio_data": "Cheu fa fingha is an experienced and innovative chef with expertise in diverse cuisines. Known for his impeccable culinary skills and attention to detail, he has delighted patrons with flavorful creations, making him highly sought-after in the industry.",
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdKmhIzQsaZVqqVnOy0TOcFs58B0y7Iwy3-Urqs0GQgv5MooBWuSvuO-i0s_nQB19r4cE&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    },
+    {
+      "name": "Cheu ba Jangha",
+      "id": 6,
+      "experience": 6,
+      "numRecipes": 6,
+      "likes": 60,
+      "bio_data": "Cheu ba Jangha is an experienced, innovative chef known for impeccable culinary skills and attention to detail. His flavorful creations have made him highly sought-after in the industry.",
+      "c_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9JyYAYRbI-CybdQlYSs0IZU6bXNVOnrFgeg&usqp=CAU",
+      "recipes": [
+        {
+          "name": "Kung Pao Chicken",
+          "ingredients": ["chicken", "peanuts", "vegetables", "soy sauce", "rice vinegar", "cornstarch"],
+          "description": "Spicy and savory chicken stir-fry dish with peanuts and vegetables.",
+          "image": "https://example.com/kung-pao-chicken.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Hot and Sour Soup",
+          "ingredients": ["mushrooms", "tofu", "bamboo shoots", "chicken broth", "rice vinegar", "soy sauce"],
+          "description": "A classic Chinese soup with a hot and sour flavor profile.",
+          "image": "https://example.com/hot-sour-soup.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Shrimp Fried Rice",
+          "ingredients": ["rice", "shrimp", "eggs", "carrots", "peas", "soy sauce"],
+          "description": "A classic Chinese dish of fried rice with shrimp and vegetables.",
+          "image": "https://example.com/shrimp-fried-rice.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Ma Po Tofu",
+          "ingredients": ["tofu", "ground pork", "chili bean paste", "garlic", "green onions", "soy sauce"],
+          "description": "A spicy and flavorful tofu dish with ground pork.",
+          "image": "https://example.com/ma-po-tofu.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Beef and Broccoli Stir-Fry",
+          "ingredients": ["beef", "broccoli", "soy sauce", "oyster sauce", "cornstarch", "garlic"],
+          "description": "A simple yet flavorful beef and broccoli stir-fry.",
+          "image": "https://example.com/beef-broccoli.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        },
+        {
+          "name": "Dumplings",
+          "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce", "wonton wrappers"],
+          "description": "Chinese dumplings filled with ground pork and cabbage.",
+          "image": "https://example.com/dumplings.jpg",
+          "cooking_method": "To cook this item, preheat the oven to 350°F (175°C). Season the item with salt, pepper, and your favorite herbs. Place it on a baking sheet and roast for 30-40 minutes, or until it reaches the desired internal temperature. Let it rest for a few minutes before serving. Enjoy!",
+          "rating": 80
+        }
+      ]
+    }
+   
+]
